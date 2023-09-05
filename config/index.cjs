@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wx63e06cf6f9c71405',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '5114d8b0d14098c2bf2bd24b7fc81c16',
+  APP_SECRET: 'd6e93b68e3ccde0d59b8fdffbc05e2c0',
 
   PROVINCE: '安徽',
   CITY: '滁州',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '媇玥小朋友',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oKI8W6XT_uJKsfhrr1_bxYLZp6uw',
+      id: 'oKI8W6ZDf-ji78SyIx2SfRKnQl6I',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'J7XfEH4G0zTyTeHbqpF2IjX3aIFdFeVFGNTdPcbAWSM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oKI8W6XT_uJKsfhrr1_bxYLZp6uw',
+      id: 'J7XfEH4G0zTyTeHbqpF2IjX3aIFdFeVFGNTdPcbAWSM',
     }
   ],
 
