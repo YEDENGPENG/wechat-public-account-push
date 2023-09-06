@@ -46,15 +46,12 @@ const USER_CONFIG = {
         // 结婚纪念日
         // { keyword: 'marry_day', date: '2022-09-09' },
       //],
+       {
+          note_en: '天天开心',note_ch:"天天开心!!"
+        },
+      
     },
   ],
-"color_date":                     "",          # 日期字体颜色
-"color_region":                   "",          # 地区字体颜色
-"color_weather":                  "",          # 天气字体颜色
-"color_note_en":                  "",          # 金句英文字体颜色
-"color_note_zh":                  "",          # 金句中文字体颜色
-"color_max_temp":                 "",          # 最高温度字体颜色
-"color_min_temp":                 "",          # 最低温度字体颜色
 
 
 
