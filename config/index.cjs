@@ -52,10 +52,7 @@ const USER_CONFIG = {
       
     },
   ],
-        {
-          note_en: '"Everyday happy',note_ch:"天天开心!!"
-        },
-
+      
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'J7XfEH4G0zTyTeHbqpF2IjX3aIFdFeVFGNTdPcbAWSM',
