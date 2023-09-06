@@ -47,7 +47,7 @@ const USER_CONFIG = {
         // { keyword: 'marry_day', date: '2022-09-09' },
       //],
        {
-          note_en: '天天开心',note_ch:"天天开心!!"
+          note_en: '"Everyday happy',note_ch:"天天开心!!"
         },
       
     },
