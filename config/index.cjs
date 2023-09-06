@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oKI8W6ZDf-ji78SyIx2SfRKnQl6I',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'J7XfEH4G0zTyTeHbqpF2IjX3aIFdFeVFGNTdPcbAWSM',
+      useTemplateId: 'mX47964kIRFYebovytdGHf6jPTxyyHwM3madAb2J8Mw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-18',
       festivals: [
@@ -48,6 +48,18 @@ const USER_CONFIG = {
       //],
     },
   ],
+  # 字体颜色:使用RGB颜色(如#000000黑色)，留空颜色默认随机
+"color_date":                     "",          # 日期字体颜色
+"color_region":                   "",          # 地区字体颜色
+"color_weather":                  "",          # 天气字体颜色
+"color_temp":                     "",          # 当前温度字体颜色
+"color_wind":                     "",          # 当前风向字体颜色
+"color_note_en":                  "",          # 金句英文字体颜色
+"color_note_zh":                  "",          # 金句中文字体颜色
+"color_max_temp":                 "",          # 最高温度字体颜色
+"color_min_temp":                 "",          # 最低温度字体颜色
+"color_sunrise":                  "",          # 日出字体颜色
+"color_sunset":                   "",          # 日落字体颜色
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
