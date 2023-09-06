@@ -48,18 +48,14 @@ const USER_CONFIG = {
       //],
     },
   ],
-  # 字体颜色:使用RGB颜色(如#000000黑色)，留空颜色默认随机
 "color_date":                     "",          # 日期字体颜色
 "color_region":                   "",          # 地区字体颜色
 "color_weather":                  "",          # 天气字体颜色
-"color_temp":                     "",          # 当前温度字体颜色
-"color_wind":                     "",          # 当前风向字体颜色
 "color_note_en":                  "",          # 金句英文字体颜色
 "color_note_zh":                  "",          # 金句中文字体颜色
 "color_max_temp":                 "",          # 最高温度字体颜色
 "color_min_temp":                 "",          # 最低温度字体颜色
-"color_sunrise":                  "",          # 日出字体颜色
-"color_sunset":                   "",          # 日落字体颜色
+
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
