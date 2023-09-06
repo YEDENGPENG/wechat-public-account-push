@@ -46,12 +46,10 @@ const USER_CONFIG = {
         // 结婚纪念日
         // { keyword: 'marry_day', date: '2022-09-09' },
       //],
-       {
-          note_en: '"Everyday happy',note_ch:"天天开心!!"
-        },
-      
     },
   ],
+    note_en: '"Everyday happy',note_ch:'天天开心!!',
+    
       
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
