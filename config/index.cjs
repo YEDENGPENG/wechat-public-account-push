@@ -46,7 +46,6 @@ const USER_CONFIG = {
         // 结婚纪念日
         // { keyword: 'marry_day', date: '2022-09-09' },
       //],
-      { note_en: '"Everyday happy',note_ch:'天天开心!!'},
     },
   ],
    
